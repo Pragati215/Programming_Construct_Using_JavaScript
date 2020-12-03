@@ -1,0 +1,14 @@
+{
+  "name": "if-else",
+  "version": "1.0.0",
+  "description": "programing construct",
+  "main": "MaxMinNo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"pragati\"",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
